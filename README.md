@@ -1,0 +1,2 @@
+# qiniuforkingeditor
+qiniu for kingeditor
